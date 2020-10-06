@@ -1,6 +1,6 @@
-baseURL = "https://dpv.steam228.com/"
+baseURL = "https://cmi.steam228.com/"
 languageCode = "en-us"
-title = "Design de Produto e Interação - PeDV"
+title = "Comunicação Multimedia I"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false
