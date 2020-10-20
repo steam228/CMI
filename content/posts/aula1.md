@@ -25,13 +25,13 @@ tags:
 ---
 ### 
 
-{{< yt id 7L1-0DOGHDY >}}
+{{< yt 7L1-0DOGHDY >}}
 ---
-{{< yt id Zc2c6HquANE >}}
+{{< yt Zc2c6HquANE >}}
 ---
-{{< yt id 0olcwCD9-GM >}}
+{{< yt 0olcwCD9-GM >}}
 ---
-{{< yt id dPtDJGH8BKQ >}}
+{{< yt dPtDJGH8BKQ >}}
 ---
 
 
