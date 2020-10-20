@@ -17,14 +17,7 @@ tags:
 4. Miro - definião visual de conceito e referencias;
 5. Redes Sociais.
 
-
----
-### 
-
-
----
-### 
-
+___
 {{< yt 7L1-0DOGHDY >}}
 ---
 {{< yt Zc2c6HquANE >}}
