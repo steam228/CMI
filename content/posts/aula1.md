@@ -9,7 +9,7 @@ tags:
 
 # Sumário
 
-(Aula Presencial)
+(Aula online)
 
 1. Apresentação de Aluna(o)s e Professor;
 2. Funcionamento das aulas remotas e presenciais e utilização dos recursos disponibilizados: moodle, página do módulo;
