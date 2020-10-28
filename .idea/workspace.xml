@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="37f380a2-9855-4068-acd2-e18a458a14b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/content/posts/aula1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/aula1.md" afterDir="false" />
+>>>>>>> df2ffe6dcee8adbc5b0667f7c5450161268dad6c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
       <workItem from="1601893611076" duration="1691000" />
       <workItem from="1601898253983" duration="6734000" />
       <workItem from="1601973610469" duration="1268000" />
+<<<<<<< HEAD
       <workItem from="1602014803844" duration="2448000" />
       <workItem from="1602418338232" duration="564000" />
       <workItem from="1602505733511" duration="551000" />
@@ -45,6 +50,15 @@
       <workItem from="1602843496914" duration="756000" />
       <workItem from="1603710140942" duration="112000" />
       <workItem from="1603874209166" duration="250000" />
+=======
+      <workItem from="1602014803844" duration="2428000" />
+      <workItem from="1602023431100" duration="99000" />
+      <workItem from="1602054861072" duration="573000" />
+      <workItem from="1603146560080" duration="1121000" />
+      <workItem from="1603181037244" duration="598000" />
+      <workItem from="1603229311247" duration="2140000" />
+      <workItem from="1603236630996" duration="12000" />
+>>>>>>> df2ffe6dcee8adbc5b0667f7c5450161268dad6c
     </task>
     <servers />
   </component>
