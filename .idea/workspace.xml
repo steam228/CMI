@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37f380a2-9855-4068-acd2-e18a458a14b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,7 +38,13 @@
       <workItem from="1601893611076" duration="1691000" />
       <workItem from="1601898253983" duration="6734000" />
       <workItem from="1601973610469" duration="1268000" />
-      <workItem from="1602014803844" duration="2428000" />
+      <workItem from="1602014803844" duration="2448000" />
+      <workItem from="1602418338232" duration="564000" />
+      <workItem from="1602505733511" duration="551000" />
+      <workItem from="1602578790200" duration="534000" />
+      <workItem from="1602843496914" duration="756000" />
+      <workItem from="1603710140942" duration="112000" />
+      <workItem from="1603874209166" duration="250000" />
     </task>
     <servers />
   </component>
@@ -45,6 +52,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1429" y="351" key="SettingsEditor" timestamp="1603874434258">
+      <screen x="0" y="23" width="2560" height="1378" />
+    </state>
+    <state x="1429" y="351" key="SettingsEditor/0.23.2560.1378@0.23.2560.1378" timestamp="1603874434258" />
+    <state x="1683" y="563" key="cloudConfig.PluginsDialog" timestamp="1603874457359">
+      <screen x="0" y="23" width="2560" height="1378" />
+    </state>
+    <state x="1683" y="563" key="cloudConfig.PluginsDialog/0.23.2560.1378@0.23.2560.1378" timestamp="1603874457359" />
     <state x="426" y="452" key="git4idea.merge.GitMergeDialog" timestamp="1601989530420">
       <screen x="0" y="23" width="2560" height="1378" />
     </state>
