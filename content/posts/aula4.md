@@ -1,5 +1,5 @@
 ---
-title: "Lorem ipsum"
+title: "Aula 4"
 description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
 date: "2020-10-27"
 tags:
@@ -9,11 +9,20 @@ tags:
 
 (Aula online)
 
-1. Apresentação e discussão de TPC;
-2. Edição de imagem;
-3. Principios fundamentais da imagem digital;
-4. Introdução ao interface do Adobe Photoshop.
+1. Discussão em grupo acerca da definição de alter-egos e da sua existencia física e virtual fictícia.
+2. Discussão de trabalhos da aula anterior;
+3. Selecções, Layers e Mascaras em Edição de Imagem.
+
+
+### REFS
+
+https://search.creativecommons.org/
+https://vimeo.com/217759099
 
 
 TPC:
-- Selecção de redes sociais e configuração de contas para Alter-ego.
+- Tomando como referencia o trabalho de João Pombeiro, editem uma imagem, exclusivamente em recortes digitais obtidos a partir do site [CC Search](https://search.creativecommons.org/)
+Esta imagem deverá espelhar o desenvolvimento do alter-ego até ao momento e deverá ser mantida no ficheiro editável de modo a que num futuro proximo se exportem várias versões da mesma.
+Para já, deverão submeter no moodle um jpeg exportado a partir da mesma.
+
+
