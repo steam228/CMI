@@ -1,7 +1,7 @@
 ---
 title: "Aula 1"
 description: "Apresentação e Funcionamento da UC de Comunicação Multimedia"
-date: "2020-10-06"
+date: "2020-10-07"
 tags:
 - moodle
 - recursos

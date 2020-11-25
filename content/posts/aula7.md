@@ -1,9 +1,14 @@
 ---
-title: "Lorem ipsum"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "2020-11-17"
+title: "Aula 7"
+description: "Edição de Imagem - Conclusão"
+date: "2020-11-18"
 tags:
-- Lorem
-- Ipsum
+- Photoshop
+- GIMP
 ---
 
+# Sumário
+
+- Apresentação e Discussão do TPC da aula 5;
+- Visão geral sobre as tarefas associadas à edição de imagem;
+- Conclusões acerca das preocupações fundamentais e importância de cultivar a leitura e análise de imagem de forma a potenciar o espirito ccrítico e cultura visual.

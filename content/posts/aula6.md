@@ -1,9 +1,13 @@
 ---
-title: "Lorem ipsum"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "2020-11-10"
+title: "Aula 6"
+description: "Edição de Imagem (outras ferramentas de selecção) - continuação"
+date: "2020-11-11"
 tags:
-- Lorem
-- Ipsum
+- Photoshop
+- GIMP
 ---
+
+# Sumário
+
+- Continuação da aula anterior.
 

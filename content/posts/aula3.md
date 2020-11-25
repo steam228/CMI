@@ -1,7 +1,7 @@
 ---
 title: "Aula 3"
 description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "2020-10-20"
+date: "2020-10-21"
 tags:
 
 ---
@@ -16,6 +16,11 @@ tags:
 4. Introdução ao interface do Adobe Photoshop.
 
 
-TPC:
+## TPC:
 - Selecção de redes sociais e configuração de contas para Alter-ego.
+
+
+### Refs:
+
+
 
