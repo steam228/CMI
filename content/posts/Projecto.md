@@ -1,7 +1,7 @@
 ---
 title: "Projeto"
 description: "Dispensador Automático de ..."
-date: "2020-10-30"
+date: "2021-10-30"
 tags:
 - DistributedDesign
 - ProductInteractionDesign
